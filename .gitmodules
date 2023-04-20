@@ -1,0 +1,3 @@
+[submodule "backend-diagnostics-python"]
+	path = backend-diagnostics-python
+	url = git@github.com:CPayne6/backend-diagnostics-python.git
