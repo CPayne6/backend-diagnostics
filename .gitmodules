@@ -1,3 +1,6 @@
 [submodule "backend-diagnostics-python"]
 	path = backend-diagnostics-python
 	url = git@github.com:CPayne6/backend-diagnostics-python.git
+[submodule "backend-diagnostics-java"]
+	path = backend-diagnostics-java
+	url = git@github.com:CPayne6/backend-diagnostics-java.git
